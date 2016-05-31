@@ -1,1 +1,1 @@
-# psychic2
+# hangman

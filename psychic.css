@@ -1,0 +1,12 @@
+#psychic {
+	font-size: 30px;
+}
+#guess {
+	text-decoration: underline;
+	padding-bottom: 1px;
+	}
+
+ul {
+	margin-left: -40px;
+	padding-bottom: 10px;
+}
